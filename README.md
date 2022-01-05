@@ -1,9 +1,9 @@
-# CA_missing_freshet
-Supporting data and code for "TITLE OF PUBLICATION"
+# CA missing freshet
+Supporting data and code for Lapides et al., 20XX.
 
 This directory includes:
 * Data
-    * MODIS_and_PRISM_data--directory containing one file for each study site with monthly data for: ET (mm) from MODIS, P (mm) from PRISM, wy (water year), and sumP (mm) cumulative precipitation for water year to date
+    * MODIS_and_PRISM_data--directory containing one file for each study site with monthly data for: ET (mm) from MODIS (Running et al., 2017), P (mm) from PRISM (Daly et al., 2008; Daly et al., 2015), wy (water year), and sumP (mm) cumulative precipitation for water year to date
     * evaporative_stress_index--directory containing one file for each study site with monthly average ESI
     * modis_temperature--directory containing one file for each study site with monthly mean land surface temperature (degrees C) from MODIS
     * site_data_wy_totals--directory containing one file for each study site with water year totals for: P (mm), adjP (mm) precipitation that fell as rain, spring_rain (mm) precipitation that fell as rain in the spring, winter_P (mm) precipitation from October-March, total_swe (mm) sum of all positive changes in SWE, snowfall_t (mm) snowfall determined as precipitation that fell with average temperature was below freezing, springET (mm) ET from April-July, maxDeficit (mm) maximum root zone storage deficit during the water year, minDeficit (mm) minimum root zone storage deficit during the water year, octDeficit (mm) October 1 deficit, aprDeficit (mm) April 1 deficit.
@@ -25,5 +25,14 @@ Colab notebooks:
 * [Simple model of streamflow generation from snowmelt in the Sierra](https://colab.research.google.com/drive/197Hglpe3kkThdblSFz-9U9h63IvdQzE9?usp=sharing)
 
 # References
+Daly, Christopher, et al. "Physiographically sensitive mapping of climatological temperature and precipitation across the conterminous United States." International Journal of Climatology: a Journal of the Royal Meteorological Society 28.15 (2008): 2031-2064.
+
+Daly, Christopher, Joseph I. Smith, and Keith V. Olson. "Mapping atmospheric moisture climatologies across the conterminous United States." PloS one 10.10 (2015): e0141140.
+
+Lapides, Dana A, Hahm, W Jesse, Rempe, Daniella M, Dralle, David N. (20XX) "Root zone storage deficits mediate the production of streamflow from snowmelt".
+
 National Operational Hydrologic Remote Sensing Center. "Snow data assimilation system (SNODAS) data products at NSIDC." (2004).
+
+Running, S. and Mu, Q. and Zhao, M. (2017). MOD16A2 MODIS/Terra Net Evapotranspiration 8-Day L4 Global 500m SIN Grid V006 [Data set]. NASA EOSDIS Land Processes DAAC. doi: [https://doi.org/10.5067/MODIS/MOD16A2.006](https://doi.org/10.5067/MODIS/MOD16A2.006).
+
 U.S. Geological Survey (2021). National Water Information System data available on the World Wide Web (Water Data for the Nation).
