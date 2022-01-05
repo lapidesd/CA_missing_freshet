@@ -11,7 +11,11 @@ This directory includes:
     * april_swe_study_sites_mm.csv--April 1 SWE (mm) from SNODAS (National Operational Hydrologic Remote Sensing Center, 2004) with a column for each study site
     * california_site_list.zip--shapefile with list of study sites and gage locations
     * california_site_watershed_boundaries.zip--shapefile with watershed boundaries for each study site
-    * 
+    * melt_rates.csv--Water year mean melt rate for each study site (columns), mm/day
+    * snodas_basin_data1.csv--SNODAS data (National Operational Hydrologic Remote Sensing Center, 2004) processed for each study basin organized by date and USGS site ID with SWE (mm), snowmelt (mm), and sublimation (mm) for each timestep
+    * spring_streamflow_mm.csv--total spring streamflow (April-July) at each study site (columns) as calculated from NWIS data (U.S. Geological Survey, 2021)
+    * state_outline.zip--shapefile of US state boundaries
+    * swe_q_residuals_mm.csv--Residual (mm) from SWE-Q linear regression for each year in the study period
 
 Colab notebooks:
 
@@ -22,3 +26,4 @@ Colab notebooks:
 
 # References
 National Operational Hydrologic Remote Sensing Center. "Snow data assimilation system (SNODAS) data products at NSIDC." (2004).
+U.S. Geological Survey (2021). National Water Information System data available on the World Wide Web (Water Data for the Nation).
