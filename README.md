@@ -1,4 +1,4 @@
-# CA missing freshet
+# Supplementary code and data for: Root zone storage deficits mediate the production of streamflow from snowmelt
 Supporting data and code for Lapides et al., 20XX.
 
 This directory includes:
