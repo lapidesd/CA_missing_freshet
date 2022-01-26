@@ -18,6 +18,7 @@ This directory includes:
     * swe_q_residuals_mm.csv--Residual (mm) from SWE-Q linear regression for each year in the study period
 * Code
     * process_snodas_data_share.ipynb--Jupyter notebook with code for processing SNODAS data and producing a map of April 1 SWE/maximal deficit in California. This notebook requires changes to be run and is only meant for sharing methods.
+    * basin_selection_and_summary.ipynb--Jupyter notebook with code used to select study sites by applying the criteria described in the supplement to the article. The data used for this notebook is not included in this repository. This notebook is only meant for sharing methods.
 
 Large data files were used and produced for this publication. Most of these data are available from pre-existing sources. We share our maps of 10, 25, 50, 75, and 90th percentile of April 1 SWE across the contiguous USA on HydoSHARE: [April 1 SWE data](https://www.hydroshare.org/resource/4b940b8593a4416e954a47bbbc58c568/).
 
