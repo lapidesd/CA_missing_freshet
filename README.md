@@ -26,8 +26,8 @@ Colab notebooks:
 
 * [Relationship between April 1 SWE and spring runoff](https://colab.research.google.com/drive/1tv8kbIe9EY3vFdAQzbJTfE7RmDpM9uQG?usp=sharing)
 * [Storage deficits and spring ET calculations](https://colab.research.google.com/drive/1hq-qqlIR_LuEyZ5s5RPddnqDLBo4M309?usp=sharing)
-* [AICc analysis to find best model for spring Q](https://colab.research.google.com/drive/1jPtdcESsGPfB2H6MC-W7metpiFSqe799?usp=sharing)
-* [Simple model of streamflow generation from snowmelt in the Sierra](https://colab.research.google.com/drive/197Hglpe3kkThdblSFz-9U9h63IvdQzE9?usp=sharing)
+* [Regression and random forest models for spring streamflow](https://colab.research.google.com/drive/1jPtdcESsGPfB2H6MC-W7metpiFSqe799?usp=sharing)
+* [Mass balance model of streamflow generation from snowmelt](https://colab.research.google.com/drive/197Hglpe3kkThdblSFz-9U9h63IvdQzE9?usp=sharing)
 
 # References
 Daly, Christopher, et al. "Physiographically sensitive mapping of climatological temperature and precipitation across the conterminous United States." International Journal of Climatology: a Journal of the Royal Meteorological Society 28.15 (2008): 2031-2064.
