@@ -1,6 +1,14 @@
 # Supplementary code and data for: Missing snowmelt runoff following drought explained by root-zone storage deficits
 Supporting data and code for Lapides et al., 20XX.
 
+Colab notebooks:
+
+* [Relationship between April 1 SWE and spring runoff](https://colab.research.google.com/drive/1tv8kbIe9EY3vFdAQzbJTfE7RmDpM9uQG?usp=sharing)
+* [Storage deficits and spring ET calculations](https://colab.research.google.com/drive/1hq-qqlIR_LuEyZ5s5RPddnqDLBo4M309?usp=sharing)
+* [Regression and random forest models for spring streamflow](https://colab.research.google.com/drive/1jPtdcESsGPfB2H6MC-W7metpiFSqe799?usp=sharing)
+* [Mass balance model of streamflow generation from snowmelt](https://colab.research.google.com/drive/197Hglpe3kkThdblSFz-9U9h63IvdQzE9?usp=sharing)
+
+
 This directory includes:
 * Data
     * MODIS_and_PRISM_data--directory containing one file for each study site with monthly data for: ET (mm) from MODIS (Running et al., 2017), P (mm) from PRISM (Daly et al., 2008; Daly et al., 2015), wy (water year), and sumP (mm) cumulative precipitation for water year to date
@@ -22,12 +30,6 @@ This directory includes:
 
 Large data files were used and produced for this publication. Most of these data are available from pre-existing sources. We share our maps of 10, 25, 50, 75, and 90th percentile of April 1 SWE across the contiguous USA on HydoSHARE: [April 1 SWE data](https://www.hydroshare.org/resource/4b940b8593a4416e954a47bbbc58c568/).
 
-Colab notebooks:
-
-* [Relationship between April 1 SWE and spring runoff](https://colab.research.google.com/drive/1tv8kbIe9EY3vFdAQzbJTfE7RmDpM9uQG?usp=sharing)
-* [Storage deficits and spring ET calculations](https://colab.research.google.com/drive/1hq-qqlIR_LuEyZ5s5RPddnqDLBo4M309?usp=sharing)
-* [Regression and random forest models for spring streamflow](https://colab.research.google.com/drive/1jPtdcESsGPfB2H6MC-W7metpiFSqe799?usp=sharing)
-* [Mass balance model of streamflow generation from snowmelt](https://colab.research.google.com/drive/197Hglpe3kkThdblSFz-9U9h63IvdQzE9?usp=sharing)
 
 # References
 Daly, Christopher, et al. "Physiographically sensitive mapping of climatological temperature and precipitation across the conterminous United States." International Journal of Climatology: a Journal of the Royal Meteorological Society 28.15 (2008): 2031-2064.
