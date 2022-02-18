@@ -1,6 +1,8 @@
 # Supplementary code and data for: Missing snowmelt runoff following drought explained by root-zone storage deficits
 Supporting data and code for Lapides et al., 20XX.
 
+[![DOI](https://zenodo.org/badge/428774645.svg)](https://zenodo.org/badge/latestdoi/428774645)
+
 Colab notebooks:
 
 * [Relationship between April 1 SWE and spring runoff](https://colab.research.google.com/drive/1tv8kbIe9EY3vFdAQzbJTfE7RmDpM9uQG?usp=sharing)
