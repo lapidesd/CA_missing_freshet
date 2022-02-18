@@ -1,4 +1,4 @@
-# Supplementary code and data for: Root zone storage deficits mediate the production of streamflow from snowmelt
+# Supplementary code and data for: Missing snowmelt runoff following drought explained by root-zone storage deficits
 Supporting data and code for Lapides et al., 20XX.
 
 This directory includes:
@@ -34,7 +34,7 @@ Daly, Christopher, et al. "Physiographically sensitive mapping of climatological
 
 Daly, Christopher, Joseph I. Smith, and Keith V. Olson. "Mapping atmospheric moisture climatologies across the conterminous United States." PloS one 10.10 (2015): e0141140.
 
-Lapides, Dana A, Hahm, W Jesse, Rempe, Daniella M, Dralle, David N. (20XX) "Root zone storage deficits mediate the production of streamflow from snowmelt".
+Lapides, Dana A, Hahm, W Jesse, Rempe, Daniella M, Dralle, David N. (20XX) "Missing snowmelt runoff following drought explained by root-zone storage deficits".
 
 National Operational Hydrologic Remote Sensing Center. "Snow data assimilation system (SNODAS) data products at NSIDC." (2004).
 
