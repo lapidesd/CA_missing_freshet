@@ -27,6 +27,7 @@ This directory includes:
     * snodas_basin_data1.csv--SNODAS data (National Operational Hydrologic Remote Sensing Center, 2004) processed for each study basin organized by date and USGS site ID with SWE (mm), snowmelt (mm), and sublimation (mm) for each timestep
     * spring_streamflow_mm.csv--total spring streamflow (April-July) at each study site (columns) as calculated from NWIS data (U.S. Geological Survey, 2021)
     * state_outline.zip--shapefile of US state boundaries
+    * snodas_basin_dwr.csv--daily aggregated SNODAS SWE data (mm) for each of 6 watersheds of economic importance in California
     * swe_q_residuals_mm.csv--Residual (mm) from SWE-Q linear regression for each year in the study period
 * Code
     * process_snodas_data_share.ipynb--Jupyter notebook with code for processing SNODAS data and producing a map of April 1 SWE/maximal deficit in California. This notebook requires changes to be run and is only meant for sharing methods.
