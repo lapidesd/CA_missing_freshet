@@ -9,7 +9,7 @@ Colab notebooks:
 * [Storage deficits and spring ET calculations](https://colab.research.google.com/drive/1hq-qqlIR_LuEyZ5s5RPddnqDLBo4M309?usp=sharing)
 * [Regression and random forest models for spring streamflow](https://colab.research.google.com/drive/1jPtdcESsGPfB2H6MC-W7metpiFSqe799?usp=sharing)
 * [Mass balance model of streamflow generation from snowmelt](https://colab.research.google.com/drive/197Hglpe3kkThdblSFz-9U9h63IvdQzE9?usp=sharing)
-* [Demonstration of application of these methods to 6 watershed of economic importance in California](https://colab.research.google.com/drive/1_igz4g_mbTntAkPZv3SJGwnYIRUEEBFE?usp=sharing)
+* [Demonstration of application of these methods to 6 watersheds of economic importance in California](https://colab.research.google.com/drive/1_igz4g_mbTntAkPZv3SJGwnYIRUEEBFE?usp=sharing)
 
 
 This directory includes:
