@@ -3,13 +3,13 @@ Supporting data and code for Lapides et al., 20XX.
 
 [![DOI](https://zenodo.org/badge/428774645.svg)](https://zenodo.org/badge/latestdoi/428774645)
 
-Colab notebooks:
+Colab notebooks, also found in directory Colab_notebooks with the names in parentheses:
 
-* [Relationship between April 1 SWE and spring runoff](https://colab.research.google.com/drive/1tv8kbIe9EY3vFdAQzbJTfE7RmDpM9uQG?usp=sharing)
-* [Storage deficits and spring ET calculations](https://colab.research.google.com/drive/1hq-qqlIR_LuEyZ5s5RPddnqDLBo4M309?usp=sharing)
-* [Regression and random forest models for spring streamflow](https://colab.research.google.com/drive/1jPtdcESsGPfB2H6MC-W7metpiFSqe799?usp=sharing)
-* [Mass balance model of streamflow generation from snowmelt](https://colab.research.google.com/drive/197Hglpe3kkThdblSFz-9U9h63IvdQzE9?usp=sharing)
-* [Demonstration of application of these methods to 6 watersheds of economic importance in California](https://colab.research.google.com/drive/1_igz4g_mbTntAkPZv3SJGwnYIRUEEBFE?usp=sharing)
+* [Relationship between April 1 SWE and spring runoff](https://colab.research.google.com/drive/1tv8kbIe9EY3vFdAQzbJTfE7RmDpM9uQG?usp=sharing) (April_1_SWE_vs_streamflow.ipynb)
+* [Storage deficits and spring ET calculations](https://colab.research.google.com/drive/1hq-qqlIR_LuEyZ5s5RPddnqDLBo4M309?usp=sharing) (Deficit_and_ET_exploration.ipynb)
+* [Regression and random forest models for spring streamflow](https://colab.research.google.com/drive/1jPtdcESsGPfB2H6MC-W7metpiFSqe799?usp=sharing) (Residuals_explain_final.ipynb)
+* [Mass balance model of streamflow generation from snowmelt](https://colab.research.google.com/drive/197Hglpe3kkThdblSFz-9U9h63IvdQzE9?usp=sharing) (Interannual_snowmelt_model.ipynb)
+* [Demonstration of application of these methods to 6 watersheds of economic importance in California](https://colab.research.google.com/drive/1_igz4g_mbTntAkPZv3SJGwnYIRUEEBFE?usp=sharing) (deficit_for_prediction_dwr_watersheds.ipynb)
 
 
 This directory includes:
