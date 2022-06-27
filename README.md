@@ -9,7 +9,7 @@ Colab notebooks, also found in directory Colab_notebooks with the names in paren
 * [Storage deficits and spring ET calculations](https://colab.research.google.com/drive/1hq-qqlIR_LuEyZ5s5RPddnqDLBo4M309?usp=sharing) (Deficit_and_ET_exploration.ipynb)
 * [Regression and random forest models for spring streamflow](https://colab.research.google.com/drive/1jPtdcESsGPfB2H6MC-W7metpiFSqe799?usp=sharing) (Residuals_explain_final.ipynb)
 * [Mass balance model of streamflow generation from snowmelt](https://colab.research.google.com/drive/197Hglpe3kkThdblSFz-9U9h63IvdQzE9?usp=sharing) (Interannual_snowmelt_model.ipynb)
-* [Demonstration of application of these methods to 6 watersheds of economic importance in California](https://colab.research.google.com/drive/1_igz4g_mbTntAkPZv3SJGwnYIRUEEBFE?usp=sharing) (deficit_for_prediction_dwr_watersheds.ipynb)
+* [Demonstration of application of these methods to 6 watersheds of economic importance in California](https://colab.research.google.com/drive/1_igz4g_mbTntAkPZv3SJGwnYIRUEEBFE?usp=sharing)(deficit_for_prediction_dwr_watersheds.ipynb)
 
 
 This directory includes:
